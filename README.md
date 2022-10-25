@@ -1,4 +1,6 @@
-# Contact App (Mongo)
+# Contact App (Mongo) [Draft Version]
+The contact wallet, hosted in Docker container.
+
 
 ## Functionalities:
 - Save email ID and name of a person.
