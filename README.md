@@ -20,4 +20,4 @@ The contact wallet, hosted in Docker container.
 ### Database
 - MongoDB
 
-The link to visit this app online will be added soon.
+The link to visit this app online will be added.
